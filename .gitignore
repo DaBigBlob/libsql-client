@@ -180,3 +180,4 @@ lib-esm/
 _conf.ts
 wiki/
 *.lockb
+*.tsbuildinfo
