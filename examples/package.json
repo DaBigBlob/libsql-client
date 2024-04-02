@@ -1,0 +1,10 @@
+{
+  "name": "libsql-examples",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "libsql-client": "..",
+    "@libsql/core": "^0.6.0",
+    "readline-sync": "^1.4.10"
+  }
+}
